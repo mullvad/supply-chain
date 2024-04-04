@@ -1,5 +1,5 @@
 
-[[audits.mozilla.audits.lazy_static]]
+[[audits.lazy_static]]
 who = "Nika Layzell <nika@thelayzells.com>"
 criteria = "safe-to-deploy"
 version = "1.4.0"
